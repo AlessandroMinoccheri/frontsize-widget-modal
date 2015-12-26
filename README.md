@@ -15,7 +15,7 @@ To include this widget you need:
 - frontsize SASS version > 3.12 with its dependencies
 
 ### How to use It?
-To use the widget you need to:
+To use this widget you need to:
 
 - insert modal.scss file inside frontsize theme widget folder
 - insert modal.js inside a folder
