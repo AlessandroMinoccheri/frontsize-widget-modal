@@ -3,8 +3,9 @@ Modal animations with frontsize
 
 This is a widget created for frontsize.
 Frontsize is a A fully customizable CSS generator, you can get the:
-[Frontsize SASS version][sass]
-[Frontsize LESS version][less]
+
+- [Frontsize SASS version][sass]
+- [Frontsize LESS version][less]
 
 This widget It's a collection of modal animations.
 
